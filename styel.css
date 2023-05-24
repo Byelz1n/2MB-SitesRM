@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+.titulo{
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: darkgray;
+}
+
+.musica1{
+    text-align: center;
+}
+
+.musica2{
+    text-align: center;
+}
+
+.musica3{
+    text-align: center;
+}
+
+.rodape{
+    text-align: center;
+    background-color: darkgrey;
+}
